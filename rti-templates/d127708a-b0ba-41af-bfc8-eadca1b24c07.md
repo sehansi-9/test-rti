@@ -2,7 +2,7 @@
 
 {{receiver_position}}​,
 **{{receiver_institution}}​,**
-{{receiver_address}}​.
+**{{receiver_address}}​.**
 
 Dear {{receiver_position}}​,
 
