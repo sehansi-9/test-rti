@@ -7,7 +7,6 @@ No. 354, Elvitigala Mawatha, Colombo 05
 Dear Information Officer,
 
 **Re: Request for Information under the Right to Information Act No. 12 of 2016 **
-
 I am Sanjiva Weerawarana, a citizen of Sri Lanka, holding NIC#670150224V writing on behalf of Lanka Data Foundation (opendata.lk), a not-for-profit organisation. I hold the position of Chairman, and am designated and authorised to raise RTI requests on behalf of Lanka Data Foundation. The organisation is engaged in research on open data in Sri Lanka. Pursuant to the Right to Information Act No. 12 of 2016, I respectfully request access to the following information held by your institution.
 
 <u>Statutory basis for the meeting body</u>
