@@ -7,26 +7,23 @@ No. 354, Elvitigala Mawatha, Colombo 05
 Dear Information Officer,
 
 **Re: Request for Information under the Right to Information Act No. 12 of 2016 **
-
-I am Sanjiva Weerawarana, a citizen of Sri Lanka, holding NIC#670150224V writing on behalf of Lanka Data Foundation (opendata.lk), a not-for-profit organisation. I hold the position of Chairman, and am designated and authorised to raise RTI requests on behalf of Lanka Data Foundation. The organisation is engaged in research on open data in Sri Lanka. Pursuant to the Right to Information Act No. 12 of 2016, I respectfully request access to the following information held by your institution. 
-
+**
+**
+I am Sanjiva Weerawarana, a citizen of Sri Lanka, holding NIC#670150224V writing on behalf of Lanka Data Foundation (opendata.lk), a not-for-profit organisation. I hold the position of Chairman, and am designated and authorised to raise RTI requests on behalf of Lanka Data Foundation. The organisation is engaged in research on open data in Sri Lanka. Pursuant to the Right to Information Act No. 12 of 2016, I respectfully request access to the following information held by your institution.
+ 
 <u>Statutory basis for the meeting body</u>
 The Tertiary & Vocational Education Commission (TVEC) is established under the Tertiary & Vocational Education Commission (TVEC) Act No.20/1990. 
 
-Information requested
-I request the following specific information
+<u>Information requested</u>
+I request the following specific information:
 1. The dates of the last six meetings of the Tertiary & Vocational Education Commission (TVEC) held as of the date of this letter.
 2. A copy of the approved minutes of each of those six meetings, or, where minutes have not yet been formally approved, the draft minutes or a written summary of the decisions taken at each meeting.
 3. Confirmation of the current membership of the Tertiary & Vocational Education Commission (TVEC) including the name and designation of the Chairperson and each current member.
 
 <u>Format and delivery</u>
-<u>
-</u>
 We request that the information be provided in electronic format (PDF or Word), delivered to contact@datafoundation.lk. If a fee is payable under the Right to Information (Fees) Regulations, please notify us and we will arrange payment promptly.
 
 <u>Note on exemptions</u>
-<u>
-</u>
 We acknowledge that individual items within meeting minutes may be subject to exemption under s.5 of the RTI Act. Where any exemption is claimed, we respectfully ask that the exempt portion be severed and the remainder disclosed, as provided under s.5(3) of the Act. We also note that meeting dates and membership lists are matters of public record and do not ordinarily attract any exemption.
 
 We look forward to your response within 14 working days as required under s.24(3) of the Act. If you have any questions regarding this request, please do not hesitate to contact us at +94 76 771 3471
