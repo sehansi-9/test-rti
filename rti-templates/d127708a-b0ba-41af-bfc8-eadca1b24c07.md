@@ -6,7 +6,7 @@
 
 Dear {{receiver_position}}​,
 
-**Re: Request for Information under the Right to Information Act No. 12 of 2016 **
+**Re: Request for Information under the Right to Information Act No. 12 of 2016** 
 
 I am Sanjiva Weerawarana, a citizen of Sri Lanka, holding NIC#670150224V writing on behalf of Lanka Data Foundation (opendata.lk), a not-for-profit organisation. I hold the position of Chairman, and am designated and authorised to raise RTI requests on behalf of Lanka Data Foundation. The organisation is engaged in research on open data in Sri Lanka. Pursuant to the Right to Information Act No. 12 of 2016, I respectfully request access to the following information held by your institution.
 
@@ -15,7 +15,7 @@ The Tertiary & {{receiver_institution}}​ is established under the Tertiary & V
 
 <u>Information requested</u>
 I request the following specific information:
-1. The dates of the last six meetings of the Tertiary & Vocational Education Commission (TVEC) held as of the date of this letter.
+1. The dates of the last six meetings of the {{receiver_institution}}​ held as of the date of this letter.
 2. A copy of the approved minutes of each of those six meetings, or, where minutes have not yet been formally approved, the draft minutes or a written summary of the decisions taken at each meeting.
 3. Confirmation of the current membership of the Tertiary & Vocational Education Commission (TVEC) including the name and designation of the Chairperson and each current member.
 
